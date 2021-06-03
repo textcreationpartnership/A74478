@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for accompts, and clearing of publique debts: and for discovering frauds or concealments of any thing due to the Commonwealth. Friday the 7th of October, 1653. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Clerk of the Parliament.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74478</idno><idno type="EEBO-CITATION">99868294</idno>
+  <idno type="VID">169156</idno>
+  <idno type="EEBO-PROQUEST">2248503304</idno>
+  
+            <idno type="STC">Thomason E1062_18</idno>
+            <idno type="STC">ESTC R209413</idno>
+            <idno type="PROQUEST">99868294</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868294e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74478)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169156)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1062[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for accompts, and clearing of publique debts: and for discovering frauds or concealments of any thing due to the Commonwealth. Friday the 7th of October, 1653. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Clerk of the Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>p. [2], 153-158.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Field, Printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also issued as part of a through-paged folio set.</note>
+                  <note>Text in black letter.</note>
+                  <note>In this edition, first line of imprint ends: Par-.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Finance, Public --  Great Britain --  Law and legislation --  Early works to 1800.</term>
+               <term type="topical_term">Debts, Public --  England --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169156:1"/>
+            <pb facs="tcp:169156:2"/>
+            <pb facs="tcp:169156:2"/>
+            <p>AN ACT FOR ACCOMPTS, And clearing of Publique Debts: And for discovering Frauds or Concealments of any thing due to the Commonwealth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="Parliamentary_order">
+                        <opener>
+                           <dateline>
+                              <date>Friday the 7th of <hi>October,</hi> 1653.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Parliament, That this Act be forthwith Printed and Published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen: Scobell, Clerk of the Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Iohn Field,</hi> Printer to the Par<g ref="char:EOLhyphen"/>liament of <hi>England.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:169156:3"/>
+            <pb n="153" facs="tcp:169156:3"/>
+            <head>AN ACT FOR ACCOMPTS, AND Clearing of Publique Debts; And for dis<g ref="char:EOLhyphen"/>covering Frauds or Concealments of any thing due to the Commonwealth.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the due stating and clearing of Publique Debts, in order to their payment by the Commonwealth, and for discovering of Fraud for the time past, and preventing it for time to come; Be it Enacted by this present Parliament, and it is Enacted, That all persons whatsoever, that since the Five and twentieth of <hi>March,</hi> One thousand six hundred thirty and eight, have taken or re<g ref="char:EOLhyphen"/>ceived for the use of the Commonwealth, Mo<g ref="char:EOLhyphen"/>ney, Plate, Horses, Arms, or any thing else, upon any Receipt or Bill given for the Pub<g ref="char:EOLhyphen"/>lique Faith, thereby to charge the Common<g ref="char:EOLhyphen"/>wealth as Debter on the Publique Faith; or by vertue or pretence of any Order, Ordinance or Act of Parliament, or otherwise (except onely Monethly Assessments for the Army or Navy) or have given Certificates of any Money or other things advanced, received or paid for the use of the Commonwealth, do and shall, before the Five and twentieth day of <hi>December,</hi> next after the date of this present Act, deliver in to the Commissioners in this
+<pb n="154" facs="tcp:169156:4"/>Act hereafter named, a plain Alphabetical List or Register of all the persons, and their place of aboad, from whom, and Sums of Money, or other things which they have so taken, received or certified, with the times thereof, and date of any Order, Ordinance or Act of Parliament, impowring them to do the same.</p>
+            <p>And it is further Enacted, That all Com<g ref="char:EOLhyphen"/>mittees, Commissioners, Auditors or other persons, who have been intrusted by the late Parliament to audite, state or alow, any Soldiers or other Accompts; or to give De<g ref="char:EOLhyphen"/>bentures, thereby making the Common<g ref="char:EOLhyphen"/>wealth Debtor on the Publique Faith, or o<g ref="char:EOLhyphen"/>therwise, do likewise before the said Five and twentieth day of <hi>December</hi> next, deliver in to the said Commissioners, such a List or Regi<g ref="char:EOLhyphen"/>ster of all the persons, and sums so by them stated, audited or alowed, with the times there<g ref="char:EOLhyphen"/>of, and by what Power and Authority they did the same.</p>
+            <p>And it is further Enacted, That all Com<g ref="char:EOLhyphen"/>missioners, or other persons that have been entrusted by the late Parliament to pay or sa<g ref="char:EOLhyphen"/>tisfie any Bill of publique Faith, Debenture, or publique Debt by ready money, or by doub<g ref="char:EOLhyphen"/>ling in any Purchase, or any other way, do and shal, before the said five and twentieth day of <hi>December</hi> next, deliver in to the said Com<g ref="char:EOLhyphen"/>missioners, such a List or Register of all such Bills, Debentures, sum or sums of Money, paid, doubled or satisfied in whole or in part, with the persons to whom, and the times when, and the Powers by which they were sa<g ref="char:EOLhyphen"/>tisfied, paid or doubled.</p>
+            <p>And it is further Enacted, That all persons
+<pb n="155" facs="tcp:169156:4"/>claiming any publique Debts from the Com<g ref="char:EOLhyphen"/>monwealth upon the publique. Faith, or upon such Debentures or Bills of Arrears for wa<g ref="char:EOLhyphen"/>ges, or any service or other accompts as Sol<g ref="char:EOLhyphen"/>diers; or any Officer belonging or relating to the <hi>Militia</hi> of this Commonwealth, do and shall, before the Five and twentieth of <hi>March</hi> next following, bring or send to the said Com<g ref="char:EOLhyphen"/>missioners, All and every such claim in wri<g ref="char:EOLhyphen"/>ting, with his Name, Sir-name, and place of aboad, affixed to the sum or sums so claimed, and the times thereof, &amp; maner how the same came due: And that all and every claim and pretence to any such publique Debt or Debts that shall not be so delivered in, within the time, and in the maner aforesaid, shall at all times after the same Five and twentieth day of <hi>March,</hi> be held and judged void and counter<g ref="char:EOLhyphen"/>feit, and never be alowed as a Debt from the Commonwealth, or from any person or per<g ref="char:EOLhyphen"/>sons in the same. And that all and every per<g ref="char:EOLhyphen"/>son, That by Fraud doth or shall claim any such Debt, which shall not be found and ad<g ref="char:EOLhyphen"/>judged good, or sufficiently proved to be lent, or appear a true Debt charging the Common<g ref="char:EOLhyphen"/>wealth; or conceal any Lands, Debt, Money, Plate, Iewels, or any thing else of right due or belonging to the Commonwealth; or at any time since One thousand six hundred and for<g ref="char:EOLhyphen"/>ty, belonging to the late King, Queen or Prince, or by any of their Warrants raised; or since the year One thousand six hundred forty and six, belonging to any Bishop, Dean or Chapter, in right of such Office or place; or to any Delinquent, not being yet discovered to the respective Trustees appointed by Parlia<g ref="char:EOLhyphen"/>ment, or by them not Surveyed or Invento<g ref="char:EOLhyphen"/>ried,
+<pb n="156" facs="tcp:169156:5"/>and shall not discover the same before the Five and twentieth of <hi>December</hi> next, shall forfeit treble to the value claimed or conceal<g ref="char:EOLhyphen"/>ed, and be Sequestred till the said Forfeiture be fully paid to the Commonwealth.</p>
+            <p>And it is further Enacted, That all and every person neglecting or offending in any of the premises by this Act required, shall be li<g ref="char:EOLhyphen"/>able to any Action at Law to be brought by, and to full satisfaction of any person damni<g ref="char:EOLhyphen"/>fied by such neglect or offence; besides all other Fines or penalties, that may and shall be ad<g ref="char:EOLhyphen"/>judged upon Indictment, Presentment, In<g ref="char:EOLhyphen"/>formation, or other lawful complaint on be<g ref="char:EOLhyphen"/>half of the Commonwealth.</p>
+            <p>And it is further Enacted, That if any per<g ref="char:EOLhyphen"/>son shall discover any Lands, Tenements, Money, Plate, Iewels, Debt, or any thing else, which of right is or shall be due, belong<g ref="char:EOLhyphen"/>ing or pertaining to the Commonwealth, con<g ref="char:EOLhyphen"/>cealed, or not discovered or accompted for by any person whatsoever that concealeth the same; such person so discovering any such concealment, shall be alowed as the Commis<g ref="char:EOLhyphen"/>sioners shall judge meet, not exceeding a fifth part of all that shall be duly recovered to the Commonwealth by their discovery; or shall be satisfied for their own just Debts due to them from the Commonwealth, out of the said discoveries, if there shall be enough duly recovered to satisfie the same: But if any per<g ref="char:EOLhyphen"/>sons shall unjustly molest any other, on pre<g ref="char:EOLhyphen"/>tence of any such Concealment, Fraud, or breach of any publique Trust, They shall ful<g ref="char:EOLhyphen"/>ly satisfie and pay to the person by them accu<g ref="char:EOLhyphen"/>sed, all damages sustained by such unjust mo<g ref="char:EOLhyphen"/>lestation; which said damages shall be ad<g ref="char:EOLhyphen"/>judged
+<pb n="157" facs="tcp:169156:5"/>by the said Commissioners, or by such others as the Parliament shall appoint; for which purpose, before any person shall be molested or summoned upon any such Infor<g ref="char:EOLhyphen"/>mation, the person Informing shall give security, in such sum, and with such Sureties as the said Commissioners shall alow of, to make good his Information, in such sort as the said Commissioners shall approve; or to satisfie such damages to the party grieved, as shall be awarded to him as aforesaid.</p>
+            <p>And it is further Enacted, That if any De<g ref="char:EOLhyphen"/>linquent, his Heirs, Executors or Administra<g ref="char:EOLhyphen"/>tors, Legatees or Assigns, shall first discover any of his own Estate or Debts, not yet Se<g ref="char:EOLhyphen"/>questred, or the Estate or Debts of such De<g ref="char:EOLhyphen"/>linquent not yet Sequestred; such Discoverer shall be admitted to Composition for the same, and be freed from all Sequestrations for any Delinquency past, for a fourth part of any such Estate; Provided such discovery be made within Three Moneths from the time of the passing this Act.</p>
+            <p>And it is further Enacted, That Major <hi>William Bridges, John Greensmith, Simon Cressy, Mark Coe, Robert Perwich, Philip Tandy</hi> and <hi>Wil<g ref="char:EOLhyphen"/>liam Maddison,</hi> or any four of them, be Com<g ref="char:EOLhyphen"/>missioners to receive, order and direct, all the several Lists, Claims and Discoveries in this Act required, and to keep them all distinct: And from time to time they are to certifie to the Committee for publique Debts what they finde claimed, acknowledged, or stated on pub<g ref="char:EOLhyphen"/>lique Faith, Arrears or otherwise, by vertue of any Order, Ordinance or Act of Parlia<g ref="char:EOLhyphen"/>ment, and what is not yet stated or cleared to be due from the Commonwealth; and what
+<pb n="158" facs="tcp:169156:6"/>undue Demands or Receipts they finde; and what Concealments discovered, or Frauds, by which the Commonwealth is or shall be damnified; with all the sums of Money, or other things they shall discover to be due to the Commonwealth, or by fraud gotten or detain<g ref="char:EOLhyphen"/>ed from it: And to these ends, they are Im<g ref="char:EOLhyphen"/>powred to send for Persons, Records, Ac<g ref="char:EOLhyphen"/>compts, Books, or any Writings of publique Interest, and to enquire and examine upon Oath; and in case of contempt, to commit to safe Custody.</p>
+            <p>And it is further Enacted, That all persons that for the space of thirty days shall detain any sum of Money, or other things, adjudged and certified by the said Commissioners to the said Committee, and by them to the Commis<g ref="char:EOLhyphen"/>sioners for Composition, shall be Sequestred from all their Estates real and personal, till such Moneys, or other things so adjudged and certified, shall be paid in to the Treasury, by the Parliament appointed or to be appoint<g ref="char:EOLhyphen"/>ed: And the said Committee are from time to time to acquaint the House with all cases of difficulty, that there may be particular di<g ref="char:EOLhyphen"/>rections for the paying of what shall be duly stated: And for due stating and clearing of all such Claims as shall appear to be just, and not already setled or directed by the Act for <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> or other Acts or Orders of Parliament.</p>
+            <closer>
+               <signed>Hen: Scobell, Clerk of the Parlaiment.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
